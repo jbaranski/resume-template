@@ -48,6 +48,7 @@ In your repository: **Settings → Pages → Build and deployment → Source →
 | `robots.txt` | Empty by default. Add rules if you want to restrict crawlers. |
 | `_config.yml` | Set `baseurl` (step 2). `name` and `url` are conventional Jekyll fields that no template in this site reads, so they are cosmetic. |
 | `LICENSE` | Update or remove the copyright line. |
+| `_layouts/default.html` | Update `name="author" content="Your Name"` to your actual name. |
 
 ### 6. Push
 
