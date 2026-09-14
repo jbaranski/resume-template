@@ -9,17 +9,17 @@ title: Jon Doe
 Software engineer with X years of experience building and maintaining backend services and web applications.
 
 #### Experience
-**[Company 1](https://www.example.com)** *MM/YYYY–Present* — **Software Engineer II**
+**[Company 1](https://www.example.com)** *MM/YYYY–Present* - **Software Engineer II**
 - This is point 1 for an example SW.
 - This is point 2 for an example SW.
 - This is point 3 for an example SW.
 
-**[Company 2](https://www.example.com)** *MM/YYYY–MM/YYYY* — **Software Engineer**
+**[Company 2](https://www.example.com)** *MM/YYYY–MM/YYYY* - **Software Engineer**
 - This is point 1 for an example SW.
 - This is point 2 for an example SW.
 - This is point 3 for an example SW.
 
-**[Company 3](https://www.example.com)** *MM/YYYY–MM/YYYY* — **Associate Software Engineer**
+**[Company 3](https://www.example.com)** *MM/YYYY–MM/YYYY* - **Associate Software Engineer**
 - This is point 1 for an example SW.
 - This is point 2 for an example SW.
 - This is point 3 for an example SW.
