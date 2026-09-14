@@ -1,5 +1,5 @@
 name: "Your Name"
-exclude: [README.md, LICENSE, Gemfile, Gemfile.lock, vendor]
+exclude: [README.md, LICENSE, Gemfile, Gemfile.lock, node_modules, vendor]
 # No CNAME, so the site is served from the GitHub Pages project URL:
 # https://jbaranski.github.io/resume-template
 url: 'https://jbaranski.github.io'
